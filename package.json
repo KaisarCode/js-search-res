@@ -1,6 +1,6 @@
 {
   "name": "kc-search-res",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "[js] Search results array.",
   "main": "index.js",
   "repository": {
